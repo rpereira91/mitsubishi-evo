@@ -1,0 +1,59 @@
+    
+{
+    "evolution": [
+        {
+        "year": 1992,
+        "name": "Evolution I",
+        "weight": 2734,
+        "HP": 250,
+        "wheelbase": 98.4,
+        "torque": 228,
+        "length": 169.7,
+        "width": 66.7,
+        "height": 54.9,
+        "facts":[
+            "Created in the hopes of securing a WRC (World Rally Championship) victory",
+            "Used the succcessful Galant VR-4 drivetrain and put it into a lighter Lancer chassi",
+            "5000 production models were made in order for Mitsubishi to enter the WRC",
+            "Had a 2.0 L turbocharged DOHC engine and 4WD drivetrain"
+        ],
+        "subheading" : "Lovechild of the Galant VR-4 and the Lancer"
+        }
+        ,{
+        "year": 1993,
+        "name": "Evolution II",
+        "weight": 2756,
+        "HP": 256,
+        "wheelbase": 98.8,
+        "torque": 228,
+        "length": 169.7,
+        "width": 66.7,
+        "height": 54.9,
+        "facts":[
+            "Ran from 1993 - 1995",
+            "Started the trend of improving each EVO power output per encarnation",
+            "Improved stablity at higher speeds thanks to aerodynamic improvements like a front air dam and a rear spoiler support",
+            "7000 RPM redline"
+        ],
+        "subheading" : "Main focus was improved handling over the EVO I"
+        }
+        ,{
+        "year": 1995,
+        "name": "Evolution III",
+        "weight": 2778,
+        "HP": 270,
+        "wheelbase": 98.8,
+        "torque": 228,
+        "length": 169.7,
+        "width": 66.7,
+        "height": 54.9,
+        "facts":[
+            "",
+            ""
+        ],
+        "subheading" : "Reuced lift and better cooling performance were top priorities for the EVO III"
+        }
+
+    ]
+}
+
